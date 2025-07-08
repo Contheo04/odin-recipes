@@ -1,0 +1,31 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.select {
+    font-size: 40px;
+
+}
+
+.items li {
+    background-color: lightgray;
+    display: block;
+    width: 400px;
+    margin: 2px 0;
+    text-align: left;
+    padding: 20px;
+    border: 2px solid black;
+}
+
+ul {
+    padding-left: 0px;
+}
+li a:hover{
+    background-color: white;
+}
+
+#title {
+    font-size: 60px;
+    font-weight: bold;
+    text-decoration: underline;
+}

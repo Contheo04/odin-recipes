@@ -1,1 +1,1 @@
-#3 AMAZING recipes
+3 AMAZING recipes
